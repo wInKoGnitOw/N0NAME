@@ -1,33 +1,33 @@
 # N0NAME или Илья Хлыстов
   А это моя жаба :)
   <h3 align="center"> </h3>
-  <h3 align="center">                                                                                            .-----.</h3>
-  <h3 align="center">                                                                                           /7  .  (</h3>
-  <h3 align="center">                                                                                          /   .-.  \</h3>
-  <h3 align="center">                                                                                         /   /   \  \</h3>
-  <h3 align="center">                                                                                        / `  )   (   )</h3>
-  <h3 align="center">                                                                                       / `   )   ).  \</h3>
-  <h3 align="center">                                                                                     .'  _.   \_/  . |</h3>
-  <h3 align="center">                                                                    .--.           .' _.' )`.        |</h3>
-  <h3 align="center">                                                                   (    `---...._.'   `---.'_)    ..  \</h3>
-  <h3 align="center">                                                                    \            `----....___    `. \  |</h3>
-  <h3 align="center">                                                                     `.           _ ----- _   `._  )/  |</h3>
-  <h3 align="center">                                                                       `.       /"  \   /"  \`.  `._   |</h3>
-  <h3 align="center">                                                                         `.    ((O)` ) ((O)` ) `.   `._\</h3>
-  <h3 align="center">                                                                           `-- '`---'   `---' )  `.    `-.</h3>
-  <h3 align="center">                                                                              /                  ` \      `-.</h3>
-  <h3 align="center">                                                                            .'                      `.       `.</h3>
-  <h3 align="center">                                                                           /                     `  ` `.       `-.</h3>
-  <h3 align="center">                                                                    .--.   \ ===._____.======. `    `   `. .___.--`     .''''.</h3>
-  <h3 align="center">                                                                   ' .` `-. `.                )`. `   ` ` \          .' . '   )</h3>
-  <h3 align="center">                                                                  (   .  ` `-.`.               ( .  ` `  .`\      .'  '    ' /</h3>
-  <h3 align="center">                                                                   \  `. `    `-.               ) ` .   ` ` \  .'   ' .  '  /</h3>
-  <h3 align="center">                                                                    \ ` `.  ` . \`.    .--.     |  ` ) `   .``/   '  // .  /</h3>
-  <h3 align="center">                                                                     `.  ``. .   \ \   .-- `.  (  ` /_   ` . / ' .  '/   .'</h3>
-  <h3 align="center">                                                                       `. ` \  `  \ \  '-.   `-'  .'  `-.  `   .  .'/  .'</h3>
-  <h3 align="center">                                                                         \ `.`.  ` \ \    ) /`._.`       `.  ` .  .'  /</h3>
-  <h3 align="center">                                                                          |  `.`. . \ \  (.'               `.   .'  .'</h3>
-  <h3 align="center">                                                                       __/  .. \ \ ` ) \                     \.' .. \__</h3>
-  <h3 align="center">                                                                .-._.-'     '"  ) .-'   `.                   (  '"     `-._.--.</h3>
-  <h3 align="center">                                                               (_________.-====' / .' /\_)`--..__________..-- `====-. _________)</h3>
-  <h3 align="center">                                                                                (.'(.'
+  <h3 align="left">                                                                                            .-----.</h3>
+  <h3 align="left">                                                                                           /7  .  (</h3>
+  <h3 align="left">                                                                                          /   .-.  \</h3>
+  <h3 align="left">                                                                                         /   /   \  \</h3>
+  <h3 align="left">                                                                                        / `  )   (   )</h3>
+  <h3 align="left">                                                                                       / `   )   ).  \</h3>
+  <h3 align="left">                                                                                     .'  _.   \_/  . |</h3>
+  <h3 align="left">                                                                    .--.           .' _.' )`.        |</h3>
+  <h3 align="left">                                                                   (    `---...._.'   `---.'_)    ..  \</h3>
+  <h3 align="left">                                                                    \            `----....___    `. \  |</h3>
+  <h3 align="left">                                                                     `.           _ ----- _   `._  )/  |</h3>
+  <h3 align="left">                                                                       `.       /"  \   /"  \`.  `._   |</h3>
+  <h3 align="left">                                                                         `.    ((O)` ) ((O)` ) `.   `._\</h3>
+  <h3 align="left">                                                                           `-- '`---'   `---' )  `.    `-.</h3>
+  <h3 align="left">                                                                              /                  ` \      `-.</h3>
+  <h3 align="left">                                                                            .'                      `.       `.</h3>
+  <h3 align="left">                                                                           /                     `  ` `.       `-.</h3>
+  <h3 align="left">                                                                    .--.   \ ===._____.======. `    `   `. .___.--`     .''''.</h3>
+  <h3 align="left">                                                                   ' .` `-. `.                )`. `   ` ` \          .' . '   )</h3>
+  <h3 align="left">                                                                  (   .  ` `-.`.               ( .  ` `  .`\      .'  '    ' /</h3>
+  <h3 align="left">                                                                   \  `. `    `-.               ) ` .   ` ` \  .'   ' .  '  /</h3>
+  <h3 align="left">                                                                    \ ` `.  ` . \`.    .--.     |  ` ) `   .``/   '  // .  /</h3>
+  <h3 align="left">                                                                     `.  ``. .   \ \   .-- `.  (  ` /_   ` . / ' .  '/   .'</h3>
+  <h3 align="left">                                                                       `. ` \  `  \ \  '-.   `-'  .'  `-.  `   .  .'/  .'</h3>
+  <h3 align="left">                                                                         \ `.`.  ` \ \    ) /`._.`       `.  ` .  .'  /</h3>
+  <h3 align="left">                                                                          |  `.`. . \ \  (.'               `.   .'  .'</h3>
+  <h3 align="left">                                                                       __/  .. \ \ ` ) \                     \.' .. \__</h3>
+  <h3 align="left">                                                                .-._.-'     '"  ) .-'   `.                   (  '"     `-._.--.</h3>
+  <h3 align="left">                                                               (_________.-====' / .' /\_)`--..__________..-- `====-. _________)</h3>
+  <h3 align="left">                                                                                (.'(.'
